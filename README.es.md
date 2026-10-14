@@ -9,8 +9,35 @@ Gratis, sin anuncios, sin cuentas y sin instalar nada. Se juega en un ordenador 
 | | |
 |---|---|
 | **Jugar** | https://kurusudes.github.io/rpg-anillos/ |
+| **Tráiler (inglés)** | [Ver en el navegador](https://kurusudes.github.io/rpg-anillos/trailer/inflation-coop-trailer-en.mp4) · [MP4](trailer/inflation-coop-trailer-en.mp4) |
 | **Idiomas** | Español e inglés (se elige en la pantalla de inicio) |
 | **Jugadores** | Solo, o con amigos por internet con un código de sala de cinco letras |
+
+[![Inflation! Coop Lite-RPG](trailer/poster.jpg)](https://kurusudes.github.io/rpg-anillos/trailer/inflation-coop-trailer-en.mp4)
+
+---
+
+## El tráiler
+
+Un tráiler de 70 segundos en motion graphics sobre el bucle, sin disimular que los combates son automáticos: se pierde, se vuelve al nivel 1, se intenta otra vez (y otra), los combos y las cifras se descontrolan, se reparten los puntos, se compra equipo más brillante, y después llegan las 270 criaturas y los 42 jefes del mapa por defecto, hasta que algo espera en la oscuridad más allá del sexto anillo. Luego los biomas, los objetos (58 son joyas), los personajes y, lo mejor, los amigos: ¿quién tiene la mejor build?
+
+![Otra vez, y otra](readme/again.gif)
+
+Cada fotograma es una función pura del reloj, hecha con partidas reales capturadas del juego y con los sprites del propio juego, y grabada fotograma a fotograma. La música chiptune y los efectos de sonido se sintetizan en código y van sincronizados con los cortes.
+
+---
+
+## Capturas
+
+| Combos | Niveles, en plural |
+|---|---|
+| ![Combos](readme/combos.jpg) | ![+2.297 niveles en un combate](readme/levels.jpg) |
+| **Repartir los puntos** | **Tienda y equipo** |
+| ![Atributos](readme/attributes.jpg) | ![Tienda y equipo](readme/shop.jpg) |
+| **Explorando un bioma** | **El mapa compartido** |
+| ![Circuito Turbo](readme/exploration.jpg) | ![Mapa compartido](readme/map.jpg) |
+| **Luchar juntos** | **Duelos entre rondas** |
+| ![Combate en grupo](readme/group.jpg) | ![Duelo](readme/duel.jpg) |
 
 ---
 

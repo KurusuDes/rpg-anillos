@@ -9,8 +9,35 @@ Free, no ads, no accounts, nothing to install. Plays on a computer with a keyboa
 | | |
 |---|---|
 | **Play** | https://kurusudes.github.io/rpg-anillos/ |
+| **Trailer (English)** | [Watch in the browser](https://kurusudes.github.io/rpg-anillos/trailer/inflation-coop-trailer-en.mp4) · [MP4](trailer/inflation-coop-trailer-en.mp4) |
 | **Languages** | English and Spanish (pick one on the start screen) |
 | **Players** | Solo, or with friends over the internet using a five-letter room code |
+
+[![Inflation! Coop Lite-RPG](trailer/poster.jpg)](https://kurusudes.github.io/rpg-anillos/trailer/inflation-coop-trailer-en.mp4)
+
+---
+
+## The trailer
+
+A 70-second motion-graphics trailer about the loop, without pretending the battles aren't automatic: you lose, you go back to level 1, you try again (and again), the combos and the numbers get out of hand, you spend your points, buy shinier gear, and then meet the 270 creatures and 42 bosses of the default map, until something waits in the dark past the sixth ring. Then the biomes, the items (58 of them are jewelry), the characters and, best of all, your friends: who has the best build?
+
+![Again, and again](readme/again.gif)
+
+Every frame is a pure function of the clock, built from real gameplay captured from the game and the game's own sprites, and recorded frame by frame. The chiptune soundtrack and sound effects are synthesized in code and timed to the cuts.
+
+---
+
+## Screenshots
+
+| Combos | Levels, plural |
+|---|---|
+| ![Combos](readme/combos.jpg) | ![+2,297 levels in one fight](readme/levels.jpg) |
+| **Spend your points** | **Shop and gear** |
+| ![Attributes](readme/attributes.jpg) | ![Shop and gear](readme/shop.jpg) |
+| **Exploring a biome** | **The shared map** |
+| ![Turbo Circuit](readme/exploration.jpg) | ![Shared map](readme/map.jpg) |
+| **Fighting together** | **Duels between rounds** |
+| ![Group battle](readme/group.jpg) | ![Duel](readme/duel.jpg) |
 
 ---
 
