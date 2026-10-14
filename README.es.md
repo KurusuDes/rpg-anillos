@@ -19,7 +19,7 @@ Gratis, sin anuncios, sin cuentas y sin instalar nada. Se juega en un ordenador 
 
 ## El tráiler
 
-Un tráiler de 70 segundos en motion graphics sobre el bucle, sin disimular que los combates son automáticos: se pierde, se vuelve al nivel 1, se intenta otra vez (y otra), los combos y las cifras se descontrolan, se reparten los puntos, se compra equipo más brillante, y después llegan las 270 criaturas y los 42 jefes del mapa por defecto, hasta que algo espera en la oscuridad más allá del sexto anillo. Luego los biomas, los objetos (58 son joyas), los personajes y, lo mejor, los amigos: ¿quién tiene la mejor build?
+Un tráiler de 70 segundos en motion graphics sobre el bucle. Los combates son automáticos; las decisiones son suyas: adónde ir, cómo armar la build, qué arriesgar. Después se intenta otra vez (y otra), los combos y las cifras se descontrolan, se llega más lejos en cada ronda y aparecen las 270 criaturas y los 42 jefes del mapa por defecto, hasta que algo espera en la oscuridad más allá del sexto anillo. Luego los biomas, los objetos (58 son joyas), los personajes y, lo mejor, los amigos: ¿quién tiene la mejor build?
 
 ![Otra vez, y otra](readme/again.gif)
 

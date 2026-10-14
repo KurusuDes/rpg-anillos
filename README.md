@@ -19,7 +19,7 @@ Free, no ads, no accounts, nothing to install. Plays on a computer with a keyboa
 
 ## The trailer
 
-A 70-second motion-graphics trailer about the loop, without pretending the battles aren't automatic: you lose, you go back to level 1, you try again (and again), the combos and the numbers get out of hand, you spend your points, buy shinier gear, and then meet the 270 creatures and 42 bosses of the default map, until something waits in the dark past the sixth ring. Then the biomes, the items (58 of them are jewelry), the characters and, best of all, your friends: who has the best build?
+A 70-second motion-graphics trailer about the loop. Battles are automatic; the decisions are yours: where to go, how to build, what to risk. Then you try again (and again), the combos and the numbers get out of hand, you get further every round, and you meet the 270 creatures and 42 bosses of the default map, until something waits in the dark past the sixth ring. Then the biomes, the items (58 of them are jewelry), the characters and, best of all, your friends: who has the best build?
 
 ![Again, and again](readme/again.gif)
 
