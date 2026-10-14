@@ -1,0 +1,272 @@
+{
+ "abismo": {
+  "flecha": "#4ad0e0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "acuatico": {
+  "flecha": "#3a8a4a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "alien": {
+  "flecha": "#7af0c8",
+  "pisoCasillas": 4,
+  "texeles": 32
+ },
+ "andes": {
+  "flecha": "#f4d040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "arcade": {
+  "flecha": "#40e0f0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "arcano": {
+  "flecha": "#f0c24a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "bestias": {
+  "flecha": "#fff4dc",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "biblioteca": {
+  "flecha": "#f0d080",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "bosque": {
+  "flecha": "#fff4dc",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "cementerio": {
+  "flecha": "#b8f070",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "cielo": {
+  "flecha": "#f4d040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "circo": {
+  "flecha": "#f0e2c0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "cocina": {
+  "flecha": "#8a3a2a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "cripta": {
+  "flecha": "#7af0b0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "cristal": {
+  "flecha": "#c080f0",
+  "pisoCasillas": 4,
+  "texeles": 32
+ },
+ "culto": {
+  "flecha": "#f060c0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "desierto": {
+  "flecha": "#3a4aa8",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "dinosaurio": {
+  "flecha": "#f0e8d0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "dulces": {
+  "flecha": "#8a4a2a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "enanos": {
+  "flecha": "#f0c040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "escamas": {
+  "flecha": "#7af0a0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "espacio": {
+  "flecha": "#f0c040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "fabrica": {
+  "flecha": "#f0c040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "feerico": {
+  "flecha": "#4af0d0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "forja": {
+  "flecha": "#f08030",
+  "pisoCasillas": 4,
+  "texeles": 32
+ },
+ "gatos": {
+  "flecha": "#d8c040",
+  "pisoCasillas": 4,
+  "texeles": 32
+ },
+ "gigantes": {
+  "flecha": "#c84a3a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "granja": {
+  "flecha": "#f4ecd8",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "hielo": {
+  "flecha": "#3e5a80",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "infierno": {
+  "flecha": "#f4d040",
+  "pisoCasillas": 4,
+  "texeles": 32
+ },
+ "insectos": {
+  "flecha": "#f4e8c0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "juguete": {
+  "flecha": "#ffffff",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "lagartos": {
+  "flecha": "#2ab0a0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "limos": {
+  "flecha": "#8af0a0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "medieval": {
+  "flecha": "#f0d080",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "neon": {
+  "flecha": "#40e0f0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "nido": {
+  "flecha": "#e0603a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "oficina": {
+  "flecha": "#5a6476",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "olimpo": {
+  "flecha": "#2a5ab0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "onirico": {
+  "flecha": "#f4d040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "orcos": {
+  "flecha": "#d8b040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "pantano": {
+  "flecha": "#40e0e0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "perros": {
+  "flecha": "#d8a020",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "pirata": {
+  "flecha": "#c83a2a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "ruinas": {
+  "flecha": "#f0c040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "salvaje": {
+  "flecha": "#f4ecd0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "selva": {
+  "flecha": "#b0f040",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "templo": {
+  "flecha": "#e8b440",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "tundra": {
+  "flecha": "#c84a3a",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "turbo": {
+  "flecha": "#f4f4f4",
+  "pisoCasillas": 4,
+  "texeles": 32
+ },
+ "valhalla": {
+  "flecha": "#a8d8f0",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "vampiro": {
+  "flecha": "#e0b048",
+  "pisoCasillas": 2,
+  "texeles": 32
+ },
+ "volcan": {
+  "flecha": "#f0c040",
+  "pisoCasillas": 4,
+  "texeles": 32
+ },
+ "yokai": {
+  "flecha": "#f4ecd8",
+  "pisoCasillas": 2,
+  "texeles": 32
+ }
+}

@@ -1,0 +1,1780 @@
+{
+ "abeja_miel": {
+  "h": 197,
+  "ox": 84.0,
+  "oy": 171.6,
+  "url": "jefes/abeja_miel.png",
+  "w": 250
+ },
+ "aguila_golfista": {
+  "h": 159,
+  "ox": 78.0,
+  "oy": 134.6,
+  "url": "jefes/aguila_golfista.png",
+  "w": 223
+ },
+ "ajolote_espeleologo": {
+  "h": 166,
+  "ox": 97.0,
+  "oy": 139.6,
+  "url": "jefes/ajolote_espeleologo.png",
+  "w": 219
+ },
+ "albondiga_guerrillera": {
+  "h": 171,
+  "ox": 95.0,
+  "oy": 136.6,
+  "url": "jefes/albondiga_guerrillera.png",
+  "w": 239
+ },
+ "amaru_regador": {
+  "h": 161,
+  "ox": 66.0,
+  "oy": 128.6,
+  "url": "jefes/amaru_regador.png",
+  "w": 181
+ },
+ "anquilosaurio": {
+  "h": 224,
+  "ox": 105.0,
+  "oy": 146.6,
+  "url": "jefes/anquilosaurio.png",
+  "w": 259
+ },
+ "arana_gema": {
+  "h": 240,
+  "ox": 119.0,
+  "oy": 158.6,
+  "url": "jefes/arana_gema.png",
+  "w": 273
+ },
+ "archivador_evacuador": {
+  "h": 171,
+  "ox": 113.0,
+  "oy": 146.6,
+  "url": "jefes/archivador_evacuador.png",
+  "w": 263
+ },
+ "ardilla_arquera": {
+  "h": 251,
+  "ox": 53.0,
+  "oy": 215.6,
+  "url": "jefes/ardilla_arquera.png",
+  "w": 196
+ },
+ "armadillo_guardian": {
+  "h": 216,
+  "ox": 88.0,
+  "oy": 191.6,
+  "url": "jefes/armadillo_guardian.png",
+  "w": 231
+ },
+ "armadura_encantada": {
+  "h": 202,
+  "ox": 71.0,
+  "oy": 164.6,
+  "url": "jefes/armadura_encantada.png",
+  "w": 222
+ },
+ "automata": {
+  "h": 169,
+  "ox": 72.0,
+  "oy": 143.6,
+  "url": "jefes/automata.png",
+  "w": 225
+ },
+ "avispa_tatuadora": {
+  "h": 169,
+  "ox": 58.0,
+  "oy": 149.6,
+  "url": "jefes/avispa_tatuadora.png",
+  "w": 156
+ },
+ "azogue_ninja": {
+  "h": 228,
+  "ox": 114.0,
+  "oy": 145.6,
+  "url": "jefes/azogue_ninja.png",
+  "w": 258
+ },
+ "bagre_banjoista": {
+  "h": 156,
+  "ox": 124.0,
+  "oy": 127.6,
+  "url": "jefes/bagre_banjoista.png",
+  "w": 257
+ },
+ "basilisco_escultor": {
+  "h": 183,
+  "ox": 92.0,
+  "oy": 144.6,
+  "url": "jefes/basilisco_escultor.png",
+  "w": 193
+ },
+ "batidora_generala": {
+  "h": 172,
+  "ox": 61.0,
+  "oy": 137.6,
+  "url": "jefes/batidora_generala.png",
+  "w": 182
+ },
+ "bejin_soplon": {
+  "h": 173,
+  "ox": 68.0,
+  "oy": 148.6,
+  "url": "jefes/bejin_soplon.png",
+  "w": 219
+ },
+ "buey_remero": {
+  "h": 195,
+  "ox": 107.0,
+  "oy": 142.6,
+  "url": "jefes/buey_remero.png",
+  "w": 280
+ },
+ "bufalo_guardabosques": {
+  "h": 202,
+  "ox": 105.0,
+  "oy": 175.6,
+  "url": "jefes/bufalo_guardabosques.png",
+  "w": 278
+ },
+ "buho_notario": {
+  "h": 162,
+  "ox": 62.0,
+  "oy": 135.6,
+  "url": "jefes/buho_notario.png",
+  "w": 202
+ },
+ "buitre_comensal": {
+  "h": 148,
+  "ox": 58.0,
+  "oy": 127.6,
+  "url": "jefes/buitre_comensal.png",
+  "w": 190
+ },
+ "bulldog": {
+  "h": 197,
+  "ox": 73.0,
+  "oy": 167.6,
+  "url": "jefes/bulldog.png",
+  "w": 215
+ },
+ "caballito_director": {
+  "h": 166,
+  "ox": 70.0,
+  "oy": 139.6,
+  "url": "jefes/caballito_director.png",
+  "w": 200
+ },
+ "cabra": {
+  "h": 204,
+  "ox": 62.0,
+  "oy": 138.6,
+  "url": "jefes/cabra.png",
+  "w": 191
+ },
+ "cactus_boxeador": {
+  "h": 184,
+  "ox": 90.0,
+  "oy": 156.6,
+  "url": "jefes/cactus_boxeador.png",
+  "w": 214
+ },
+ "calamar": {
+  "h": 246,
+  "ox": 103.0,
+  "oy": 160.6,
+  "url": "jefes/calamar.png",
+  "w": 206
+ },
+ "camaleon_ilusionista": {
+  "h": 172,
+  "ox": 57.0,
+  "oy": 145.6,
+  "url": "jefes/camaleon_ilusionista.png",
+  "w": 157
+ },
+ "cancerbero_bombero": {
+  "h": 218,
+  "ox": 102.0,
+  "oy": 172.6,
+  "url": "jefes/cancerbero_bombero.png",
+  "w": 272
+ },
+ "cangrejo_pirata": {
+  "h": 187,
+  "ox": 131.0,
+  "oy": 125.6,
+  "url": "jefes/cangrejo_pirata.png",
+  "w": 299
+ },
+ "caniche": {
+  "h": 174,
+  "ox": 65.0,
+  "oy": 159.6,
+  "url": "jefes/caniche.png",
+  "w": 178
+ },
+ "canon_cascarrabias": {
+  "h": 153,
+  "ox": 59.0,
+  "oy": 115.6,
+  "url": "jefes/canon_cascarrabias.png",
+  "w": 185
+ },
+ "capibara_astronoma": {
+  "h": 173,
+  "ox": 69.0,
+  "oy": 145.6,
+  "url": "jefes/capibara_astronoma.png",
+  "w": 197
+ },
+ "caracol_caballero": {
+  "h": 202,
+  "ox": 70.0,
+  "oy": 153.6,
+  "url": "jefes/caracol_caballero.png",
+  "w": 190
+ },
+ "carambano_hockeista": {
+  "h": 198,
+  "ox": 79.0,
+  "oy": 170.6,
+  "url": "jefes/carambano_hockeista.png",
+  "w": 228
+ },
+ "carretilla_artillera": {
+  "h": 224,
+  "ox": 58.0,
+  "oy": 160.6,
+  "url": "jefes/carretilla_artillera.png",
+  "w": 180
+ },
+ "cartucho_vidriero": {
+  "h": 139,
+  "ox": 75.0,
+  "oy": 116.6,
+  "url": "jefes/cartucho_vidriero.png",
+  "w": 212
+ },
+ "cazadragones": {
+  "h": 208,
+  "ox": 72.0,
+  "oy": 178.6,
+  "url": "jefes/cazadragones.png",
+  "w": 201
+ },
+ "cebra_arbitro": {
+  "h": 174,
+  "ox": 58.0,
+  "oy": 152.6,
+  "url": "jefes/cebra_arbitro.png",
+  "w": 193
+ },
+ "centauro_relevista": {
+  "h": 185,
+  "ox": 58.0,
+  "oy": 144.6,
+  "url": "jefes/centauro_relevista.png",
+  "w": 186
+ },
+ "cerdo": {
+  "h": 179,
+  "ox": 74.0,
+  "oy": 160.6,
+  "url": "jefes/cerdo.png",
+  "w": 211
+ },
+ "chacal_caravanero": {
+  "h": 186,
+  "ox": 55.0,
+  "oy": 159.6,
+  "url": "jefes/chacal_caravanero.png",
+  "w": 141
+ },
+ "chihuahua": {
+  "h": 188,
+  "ox": 86.0,
+  "oy": 166.6,
+  "url": "jefes/chihuahua.png",
+  "w": 219
+ },
+ "ciclope_quesero": {
+  "h": 192,
+  "ox": 101.0,
+  "oy": 157.6,
+  "url": "jefes/ciclope_quesero.png",
+  "w": 269
+ },
+ "ciempies": {
+  "h": 161,
+  "ox": 82.0,
+  "oy": 128.6,
+  "url": "jefes/ciempies.png",
+  "w": 183
+ },
+ "ciervo_volante": {
+  "h": 159,
+  "ox": 66.0,
+  "oy": 134.6,
+  "url": "jefes/ciervo_volante.png",
+  "w": 222
+ },
+ "cocodrilo_juez": {
+  "h": 177,
+  "ox": 79.0,
+  "oy": 145.6,
+  "url": "jefes/cocodrilo_juez.png",
+  "w": 207
+ },
+ "colmillo": {
+  "h": 176,
+  "ox": 67.0,
+  "oy": 154.6,
+  "url": "jefes/colmillo.png",
+  "w": 188
+ },
+ "comadreja_mecanica": {
+  "h": 169,
+  "ox": 54.0,
+  "oy": 141.6,
+  "url": "jefes/comadreja_mecanica.png",
+  "w": 177
+ },
+ "condor_alcalde": {
+  "h": 151,
+  "ox": 63.0,
+  "oy": 126.6,
+  "url": "jefes/condor_alcalde.png",
+  "w": 195
+ },
+ "conejo_peluche": {
+  "h": 175,
+  "ox": 68.0,
+  "oy": 150.6,
+  "url": "jefes/conejo_peluche.png",
+  "w": 198
+ },
+ "conejo_repartidor": {
+  "h": 189,
+  "ox": 64.0,
+  "oy": 164.6,
+  "url": "jefes/conejo_repartidor.png",
+  "w": 184
+ },
+ "coral_tamborilero": {
+  "h": 212,
+  "ox": 92.0,
+  "oy": 185.6,
+  "url": "jefes/coral_tamborilero.png",
+  "w": 234
+ },
+ "cria_draconica": {
+  "h": 180,
+  "ox": 80.0,
+  "oy": 150.6,
+  "url": "jefes/cria_draconica.png",
+  "w": 211
+ },
+ "cuarzo_cantero": {
+  "h": 182,
+  "ox": 72.0,
+  "oy": 153.6,
+  "url": "jefes/cuarzo_cantero.png",
+  "w": 202
+ },
+ "cubo_socorrista": {
+  "h": 168,
+  "ox": 80.0,
+  "oy": 109.6,
+  "url": "jefes/cubo_socorrista.png",
+  "w": 207
+ },
+ "cuervo_poeta": {
+  "h": 172,
+  "ox": 66.0,
+  "oy": 151.6,
+  "url": "jefes/cuervo_poeta.png",
+  "w": 229
+ },
+ "cuy_choclero": {
+  "h": 173,
+  "ox": 61.0,
+  "oy": 139.6,
+  "url": "jefes/cuy_choclero.png",
+  "w": 162
+ },
+ "dado_mago": {
+  "h": 164,
+  "ox": 79.0,
+  "oy": 137.6,
+  "url": "jefes/dado_mago.png",
+  "w": 208
+ },
+ "demonio_mayordomo": {
+  "h": 191,
+  "ox": 78.0,
+  "oy": 165.6,
+  "url": "jefes/demonio_mayordomo.png",
+  "w": 210
+ },
+ "diablesa_tramitadora": {
+  "h": 222,
+  "ox": 85.0,
+  "oy": 183.6,
+  "url": "jefes/diablesa_tramitadora.png",
+  "w": 207
+ },
+ "diablillo_carbonero": {
+  "h": 186,
+  "ox": 84.0,
+  "oy": 161.6,
+  "url": "jefes/diablillo_carbonero.png",
+  "w": 213
+ },
+ "dracoide_herrero": {
+  "h": 204,
+  "ox": 90.0,
+  "oy": 174.6,
+  "url": "jefes/dracoide_herrero.png",
+  "w": 220
+ },
+ "dracolich": {
+  "h": 246,
+  "ox": 121.0,
+  "oy": 219.6,
+  "url": "jefes/dracolich.png",
+  "w": 244
+ },
+ "dragon_borde": {
+  "h": 219,
+  "ox": 125.0,
+  "oy": 172.6,
+  "url": "jefes/dragon_borde.png",
+  "w": 250
+ },
+ "dragon_forja": {
+  "h": 184,
+  "ox": 63.0,
+  "oy": 156.6,
+  "url": "jefes/dragon_forja.png",
+  "w": 182
+ },
+ "draugr_afilador": {
+  "h": 177,
+  "ox": 71.0,
+  "oy": 151.6,
+  "url": "jefes/draugr_afilador.png",
+  "w": 191
+ },
+ "dron_patrullero": {
+  "h": 187,
+  "ox": 101.0,
+  "oy": 157.6,
+  "url": "jefes/dron_patrullero.png",
+  "w": 244
+ },
+ "duende_zapatero": {
+  "h": 205,
+  "ox": 84.0,
+  "oy": 175.6,
+  "url": "jefes/duende_zapatero.png",
+  "w": 212
+ },
+ "eco_soprano": {
+  "h": 177,
+  "ox": 115.0,
+  "oy": 153.6,
+  "url": "jefes/eco_soprano.png",
+  "w": 268
+ },
+ "enano_gaitero": {
+  "h": 160,
+  "ox": 71.0,
+  "oy": 134.6,
+  "url": "jefes/enano_gaitero.png",
+  "w": 211
+ },
+ "engranaje_aceitero": {
+  "h": 182,
+  "ox": 85.0,
+  "oy": 156.6,
+  "url": "jefes/engranaje_aceitero.png",
+  "w": 229
+ },
+ "ent_flautista": {
+  "h": 237,
+  "ox": 99.0,
+  "oy": 184.6,
+  "url": "jefes/ent_flautista.png",
+  "w": 232
+ },
+ "erizo_escudero": {
+  "h": 245,
+  "ox": 77.0,
+  "oy": 219.6,
+  "url": "jefes/erizo_escudero.png",
+  "w": 217
+ },
+ "escama_viva": {
+  "h": 197,
+  "ox": 88.0,
+  "oy": 170.6,
+  "url": "jefes/escama_viva.png",
+  "w": 206
+ },
+ "escarabajo_gladiador": {
+  "h": 143,
+  "ox": 90.0,
+  "oy": 117.6,
+  "url": "jefes/escarabajo_gladiador.png",
+  "w": 213
+ },
+ "escarabajo_tesorero": {
+  "h": 154,
+  "ox": 75.0,
+  "oy": 129.6,
+  "url": "jefes/escarabajo_tesorero.png",
+  "w": 209
+ },
+ "escoba_aguadora": {
+  "h": 227,
+  "ox": 64.0,
+  "oy": 175.6,
+  "url": "jefes/escoba_aguadora.png",
+  "w": 202
+ },
+ "escorpion_salinero": {
+  "h": 232,
+  "ox": 110.0,
+  "oy": 183.6,
+  "url": "jefes/escorpion_salinero.png",
+  "w": 245
+ },
+ "espectro_tejedor": {
+  "h": 194,
+  "ox": 81.0,
+  "oy": 147.6,
+  "url": "jefes/espectro_tejedor.png",
+  "w": 222
+ },
+ "esporofago": {
+  "h": 183,
+  "ox": 89.0,
+  "oy": 147.6,
+  "url": "jefes/esporofago.png",
+  "w": 233
+ },
+ "esqueleto": {
+  "h": 210,
+  "ox": 56.0,
+  "oy": 183.6,
+  "url": "jefes/esqueleto.png",
+  "w": 203
+ },
+ "estatua_despierta": {
+  "h": 181,
+  "ox": 72.0,
+  "oy": 154.6,
+  "url": "jefes/estatua_despierta.png",
+  "w": 217
+ },
+ "estrella_sheriff": {
+  "h": 146,
+  "ox": 84.0,
+  "oy": 137.6,
+  "url": "jefes/estrella_sheriff.png",
+  "w": 222
+ },
+ "f1_escarlata": {
+  "h": 250,
+  "ox": 83.0,
+  "oy": 144.6,
+  "url": "jefes/f1_escarlata.png",
+  "w": 166
+ },
+ "f1_noche": {
+  "h": 250,
+  "ox": 83.0,
+  "oy": 144.6,
+  "url": "jefes/f1_noche.png",
+  "w": 166
+ },
+ "f1_papaya": {
+  "h": 250,
+  "ox": 83.0,
+  "oy": 144.6,
+  "url": "jefes/f1_papaya.png",
+  "w": 166
+ },
+ "f1_plata": {
+  "h": 250,
+  "ox": 83.0,
+  "oy": 144.6,
+  "url": "jefes/f1_plata.png",
+  "w": 166
+ },
+ "f1_verde": {
+  "h": 250,
+  "ox": 83.0,
+  "oy": 144.6,
+  "url": "jefes/f1_verde.png",
+  "w": 166
+ },
+ "fantasma_billarista": {
+  "h": 149,
+  "ox": 78.0,
+  "oy": 150.6,
+  "url": "jefes/fantasma_billarista.png",
+  "w": 205
+ },
+ "fantasma_campanero": {
+  "h": 205,
+  "ox": 83.0,
+  "oy": 143.6,
+  "url": "jefes/fantasma_campanero.png",
+  "w": 213
+ },
+ "flan_artista": {
+  "h": 198,
+  "ox": 93.0,
+  "oy": 134.6,
+  "url": "jefes/flan_artista.png",
+  "w": 249
+ },
+ "galleta_jengibre": {
+  "h": 149,
+  "ox": 84.0,
+  "oy": 133.6,
+  "url": "jefes/galleta_jengibre.png",
+  "w": 229
+ },
+ "gallo": {
+  "h": 209,
+  "ox": 138.0,
+  "oy": 192.6,
+  "url": "jefes/gallo.png",
+  "w": 276
+ },
+ "gargola": {
+  "h": 185,
+  "ox": 128.0,
+  "oy": 155.6,
+  "url": "jefes/gargola.png",
+  "w": 297
+ },
+ "garra_tumba": {
+  "h": 189,
+  "ox": 88.0,
+  "oy": 170.6,
+  "url": "jefes/garra_tumba.png",
+  "w": 220
+ },
+ "gata_jefa": {
+  "h": 200,
+  "ox": 60.0,
+  "oy": 166.6,
+  "url": "jefes/gata_jefa.png",
+  "w": 185
+ },
+ "gatito_vigia": {
+  "h": 161,
+  "ox": 53.0,
+  "oy": 135.6,
+  "url": "jefes/gatito_vigia.png",
+  "w": 145
+ },
+ "gato_callejero": {
+  "h": 176,
+  "ox": 61.0,
+  "oy": 150.6,
+  "url": "jefes/gato_callejero.png",
+  "w": 178
+ },
+ "gato_cibernetico": {
+  "h": 181,
+  "ox": 63.0,
+  "oy": 153.6,
+  "url": "jefes/gato_cibernetico.png",
+  "w": 189
+ },
+ "gato_grafitero": {
+  "h": 213,
+  "ox": 64.0,
+  "oy": 151.6,
+  "url": "jefes/gato_grafitero.png",
+  "w": 178
+ },
+ "gato_maton": {
+  "h": 168,
+  "ox": 100.0,
+  "oy": 141.6,
+  "url": "jefes/gato_maton.png",
+  "w": 227
+ },
+ "geoda_dinamitera": {
+  "h": 171,
+  "ox": 89.0,
+  "oy": 141.6,
+  "url": "jefes/geoda_dinamitera.png",
+  "w": 219
+ },
+ "globo_aeronauta": {
+  "h": 193,
+  "ox": 65.0,
+  "oy": 171.6,
+  "url": "jefes/globo_aeronauta.png",
+  "w": 208
+ },
+ "gloton_cazador": {
+  "h": 179,
+  "ox": 85.0,
+  "oy": 145.6,
+  "url": "jefes/gloton_cazador.png",
+  "w": 245
+ },
+ "goblin": {
+  "h": 160,
+  "ox": 87.0,
+  "oy": 130.6,
+  "url": "jefes/goblin.png",
+  "w": 174
+ },
+ "goblin_hincha": {
+  "h": 172,
+  "ox": 107.0,
+  "oy": 139.6,
+  "url": "jefes/goblin_hincha.png",
+  "w": 222
+ },
+ "golem_inspector": {
+  "h": 183,
+  "ox": 86.0,
+  "oy": 150.6,
+  "url": "jefes/golem_inspector.png",
+  "w": 219
+ },
+ "gong_vivo": {
+  "h": 155,
+  "ox": 98.0,
+  "oy": 128.6,
+  "url": "jefes/gong_vivo.png",
+  "w": 243
+ },
+ "gorgona_transito": {
+  "h": 248,
+  "ox": 99.0,
+  "oy": 208.6,
+  "url": "jefes/gorgona_transito.png",
+  "w": 220
+ },
+ "grapadora_fiestera": {
+  "h": 154,
+  "ox": 90.0,
+  "oy": 124.6,
+  "url": "jefes/grapadora_fiestera.png",
+  "w": 216
+ },
+ "grifo_tenista": {
+  "h": 214,
+  "ox": 112.0,
+  "oy": 187.6,
+  "url": "jefes/grifo_tenista.png",
+  "w": 224
+ },
+ "grua_demoledora": {
+  "h": 207,
+  "ox": 57.0,
+  "oy": 167.6,
+  "url": "jefes/grua_demoledora.png",
+  "w": 179
+ },
+ "grulla_papel": {
+  "h": 203,
+  "ox": 110.0,
+  "oy": 180.6,
+  "url": "jefes/grulla_papel.png",
+  "w": 254
+ },
+ "guardian_alado": {
+  "h": 226,
+  "ox": 138.0,
+  "oy": 190.6,
+  "url": "jefes/guardian_alado.png",
+  "w": 298
+ },
+ "guardian_jade": {
+  "h": 181,
+  "ox": 88.0,
+  "oy": 148.6,
+  "url": "jefes/guardian_jade.png",
+  "w": 220
+ },
+ "gusano_deshollinador": {
+  "h": 165,
+  "ox": 59.0,
+  "oy": 139.6,
+  "url": "jefes/gusano_deshollinador.png",
+  "w": 180
+ },
+ "hada_dientes": {
+  "h": 163,
+  "ox": 79.0,
+  "oy": 144.6,
+  "url": "jefes/hada_dientes.png",
+  "w": 210
+ },
+ "halcon": {
+  "h": 166,
+  "ox": 62.0,
+  "oy": 144.6,
+  "url": "jefes/halcon.png",
+  "w": 221
+ },
+ "hamster_aprendiz": {
+  "h": 230,
+  "ox": 73.0,
+  "oy": 201.6,
+  "url": "jefes/hamster_aprendiz.png",
+  "w": 207
+ },
+ "harpia_camarera": {
+  "h": 215,
+  "ox": 62.0,
+  "oy": 194.6,
+  "url": "jefes/harpia_camarera.png",
+  "w": 192
+ },
+ "helecho": {
+  "h": 229,
+  "ox": 89.0,
+  "oy": 184.6,
+  "url": "jefes/helecho.png",
+  "w": 246
+ },
+ "herrero_igneo": {
+  "h": 170,
+  "ox": 104.0,
+  "oy": 138.6,
+  "url": "jefes/herrero_igneo.png",
+  "w": 227
+ },
+ "hidra_peluquera": {
+  "h": 175,
+  "ox": 86.0,
+  "oy": 145.6,
+  "url": "jefes/hidra_peluquera.png",
+  "w": 200
+ },
+ "hiena_bandolera": {
+  "h": 185,
+  "ox": 65.0,
+  "oy": 157.6,
+  "url": "jefes/hiena_bandolera.png",
+  "w": 197
+ },
+ "hipo_payaso": {
+  "h": 204,
+  "ox": 90.0,
+  "oy": 163.6,
+  "url": "jefes/hipo_payaso.png",
+  "w": 224
+ },
+ "holograma_cantante": {
+  "h": 163,
+  "ox": 65.0,
+  "oy": 150.6,
+  "url": "jefes/holograma_cantante.png",
+  "w": 207
+ },
+ "hormiga_panadera": {
+  "h": 167,
+  "ox": 86.0,
+  "oy": 148.6,
+  "url": "jefes/hormiga_panadera.png",
+  "w": 202
+ },
+ "huargo_taxista": {
+  "h": 218,
+  "ox": 65.0,
+  "oy": 158.6,
+  "url": "jefes/huargo_taxista.png",
+  "w": 199
+ },
+ "huevo_friolero": {
+  "h": 151,
+  "ox": 86.0,
+  "oy": 121.6,
+  "url": "jefes/huevo_friolero.png",
+  "w": 192
+ },
+ "idolo_dormilon": {
+  "h": 185,
+  "ox": 69.0,
+  "oy": 152.6,
+  "url": "jefes/idolo_dormilon.png",
+  "w": 177
+ },
+ "impresora_telefonista": {
+  "h": 156,
+  "ox": 88.0,
+  "oy": 114.6,
+  "url": "jefes/impresora_telefonista.png",
+  "w": 208
+ },
+ "incensario": {
+  "h": 189,
+  "ox": 85.0,
+  "oy": 147.6,
+  "url": "jefes/incensario.png",
+  "w": 234
+ },
+ "invasor_gimnasta": {
+  "h": 182,
+  "ox": 83.0,
+  "oy": 162.6,
+  "url": "jefes/invasor_gimnasta.png",
+  "w": 241
+ },
+ "isopodo_cartero": {
+  "h": 170,
+  "ox": 104.0,
+  "oy": 108.6,
+  "url": "jefes/isopodo_cartero.png",
+  "w": 213
+ },
+ "jabato_recluta": {
+  "h": 220,
+  "ox": 85.0,
+  "oy": 199.6,
+  "url": "jefes/jabato_recluta.png",
+  "w": 228
+ },
+ "joystick_dardista": {
+  "h": 180,
+  "ox": 75.0,
+  "oy": 156.6,
+  "url": "jefes/joystick_dardista.png",
+  "w": 186
+ },
+ "koala_autoestopista": {
+  "h": 196,
+  "ox": 85.0,
+  "oy": 170.6,
+  "url": "jefes/koala_autoestopista.png",
+  "w": 214
+ },
+ "kobold_tasador": {
+  "h": 171,
+  "ox": 57.0,
+  "oy": 146.6,
+  "url": "jefes/kobold_tasador.png",
+  "w": 217
+ },
+ "kraken_capitan": {
+  "h": 281,
+  "ox": 111.0,
+  "oy": 188.6,
+  "url": "jefes/kraken_capitan.png",
+  "w": 256
+ },
+ "lagartija_arqueologa": {
+  "h": 151,
+  "ox": 77.0,
+  "oy": 127.6,
+  "url": "jefes/lagartija_arqueologa.png",
+  "w": 191
+ },
+ "lagarto_fumigador": {
+  "h": 171,
+  "ox": 82.0,
+  "oy": 142.6,
+  "url": "jefes/lagarto_fumigador.png",
+  "w": 207
+ },
+ "lagarto_oseo": {
+  "h": 234,
+  "ox": 92.0,
+  "oy": 170.6,
+  "url": "jefes/lagarto_oseo.png",
+  "w": 177
+ },
+ "lapida_andante": {
+  "h": 149,
+  "ox": 77.0,
+  "oy": 125.6,
+  "url": "jefes/lapida_andante.png",
+  "w": 219
+ },
+ "larva_pompera": {
+  "h": 139,
+  "ox": 91.0,
+  "oy": 132.6,
+  "url": "jefes/larva_pompera.png",
+  "w": 217
+ },
+ "lemming_abanderado": {
+  "h": 169,
+  "ox": 83.0,
+  "oy": 126.6,
+  "url": "jefes/lemming_abanderado.png",
+  "w": 250
+ },
+ "liana_lazadora": {
+  "h": 165,
+  "ox": 69.0,
+  "oy": 142.6,
+  "url": "jefes/liana_lazadora.png",
+  "w": 193
+ },
+ "libro_mordedor": {
+  "h": 207,
+  "ox": 82.0,
+  "oy": 157.6,
+  "url": "jefes/libro_mordedor.png",
+  "w": 234
+ },
+ "liche_frasco": {
+  "h": 189,
+  "ox": 76.0,
+  "oy": 158.6,
+  "url": "jefes/liche_frasco.png",
+  "w": 194
+ },
+ "limo_cazamoscas": {
+  "h": 192,
+  "ox": 80.0,
+  "oy": 138.6,
+  "url": "jefes/limo_cazamoscas.png",
+  "w": 201
+ },
+ "limo_fontanero": {
+  "h": 186,
+  "ox": 94.0,
+  "oy": 122.6,
+  "url": "jefes/limo_fontanero.png",
+  "w": 254
+ },
+ "llama_sacerdotisa": {
+  "h": 190,
+  "ox": 65.0,
+  "oy": 169.6,
+  "url": "jefes/llama_sacerdotisa.png",
+  "w": 179
+ },
+ "lobo_esquiador": {
+  "h": 215,
+  "ox": 70.0,
+  "oy": 146.6,
+  "url": "jefes/lobo_esquiador.png",
+  "w": 212
+ },
+ "loro_bucanero": {
+  "h": 167,
+  "ox": 55.0,
+  "oy": 148.6,
+  "url": "jefes/loro_bucanero.png",
+  "w": 202
+ },
+ "luciernaga_fisgona": {
+  "h": 173,
+  "ox": 65.0,
+  "oy": 143.6,
+  "url": "jefes/luciernaga_fisgona.png",
+  "w": 207
+ },
+ "mamut": {
+  "h": 210,
+  "ox": 120.0,
+  "oy": 181.6,
+  "url": "jefes/mamut.png",
+  "w": 286
+ },
+ "mandragora_grunona": {
+  "h": 180,
+  "ox": 68.0,
+  "oy": 155.6,
+  "url": "jefes/mandragora_grunona.png",
+  "w": 195
+ },
+ "mangosta_cazaserpientes": {
+  "h": 172,
+  "ox": 91.0,
+  "oy": 147.6,
+  "url": "jefes/mangosta_cazaserpientes.png",
+  "w": 229
+ },
+ "manticora_domadora": {
+  "h": 221,
+  "ox": 107.0,
+  "oy": 179.6,
+  "url": "jefes/manticora_domadora.png",
+  "w": 238
+ },
+ "mantis_doctora": {
+  "h": 199,
+  "ox": 72.0,
+  "oy": 162.6,
+  "url": "jefes/mantis_doctora.png",
+  "w": 194
+ },
+ "mapache_bufon": {
+  "h": 218,
+  "ox": 83.0,
+  "oy": 185.6,
+  "url": "jefes/mapache_bufon.png",
+  "w": 218
+ },
+ "marmota_meteorologa": {
+  "h": 181,
+  "ox": 73.0,
+  "oy": 141.6,
+  "url": "jefes/marmota_meteorologa.png",
+  "w": 239
+ },
+ "medusoide": {
+  "h": 242,
+  "ox": 103.0,
+  "oy": 172.6,
+  "url": "jefes/medusoide.png",
+  "w": 249
+ },
+ "meteorito_rockero": {
+  "h": 227,
+  "ox": 100.0,
+  "oy": 181.6,
+  "url": "jefes/meteorito_rockero.png",
+  "w": 209
+ },
+ "mimico_espia": {
+  "h": 163,
+  "ox": 65.0,
+  "oy": 129.6,
+  "url": "jefes/mimico_espia.png",
+  "w": 190
+ },
+ "minotauro_aceitunero": {
+  "h": 181,
+  "ox": 83.0,
+  "oy": 159.6,
+  "url": "jefes/minotauro_aceitunero.png",
+  "w": 230
+ },
+ "mofeta_cultista": {
+  "h": 242,
+  "ox": 71.0,
+  "oy": 197.6,
+  "url": "jefes/mofeta_cultista.png",
+  "w": 181
+ },
+ "moho_sembrador": {
+  "h": 192,
+  "ox": 86.0,
+  "oy": 160.6,
+  "url": "jefes/moho_sembrador.png",
+  "w": 215
+ },
+ "momia_barrendera": {
+  "h": 181,
+  "ox": 91.0,
+  "oy": 156.6,
+  "url": "jefes/momia_barrendera.png",
+  "w": 208
+ },
+ "moneda_buscatesoros": {
+  "h": 162,
+  "ox": 85.0,
+  "oy": 139.6,
+  "url": "jefes/moneda_buscatesoros.png",
+  "w": 227
+ },
+ "mono_explorador": {
+  "h": 179,
+  "ox": 65.0,
+  "oy": 153.6,
+  "url": "jefes/mono_explorador.png",
+  "w": 180
+ },
+ "mono_monje": {
+  "h": 184,
+  "ox": 70.0,
+  "oy": 150.6,
+  "url": "jefes/mono_monje.png",
+  "w": 208
+ },
+ "morena_caracola": {
+  "h": 159,
+  "ox": 52.0,
+  "oy": 149.6,
+  "url": "jefes/morena_caracola.png",
+  "w": 166
+ },
+ "morsa_contramaestre": {
+  "h": 185,
+  "ox": 96.0,
+  "oy": 141.6,
+  "url": "jefes/morsa_contramaestre.png",
+  "w": 233
+ },
+ "mosquito_enfermero": {
+  "h": 229,
+  "ox": 88.0,
+  "oy": 172.6,
+  "url": "jefes/mosquito_enfermero.png",
+  "w": 212
+ },
+ "muneca_trapo": {
+  "h": 176,
+  "ox": 72.0,
+  "oy": 152.6,
+  "url": "jefes/muneca_trapo.png",
+  "w": 196
+ },
+ "naga_cetrera": {
+  "h": 183,
+  "ox": 94.0,
+  "oy": 133.6,
+  "url": "jefes/naga_cetrera.png",
+  "w": 234
+ },
+ "necrofago": {
+  "h": 194,
+  "ox": 76.0,
+  "oy": 161.6,
+  "url": "jefes/necrofago.png",
+  "w": 198
+ },
+ "nube_senalera": {
+  "h": 146,
+  "ox": 111.0,
+  "oy": 122.6,
+  "url": "jefes/nube_senalera.png",
+  "w": 242
+ },
+ "nutria": {
+  "h": 206,
+  "ox": 56.0,
+  "oy": 178.6,
+  "url": "jefes/nutria.png",
+  "w": 137
+ },
+ "ogro_bicefalo": {
+  "h": 191,
+  "ox": 145.0,
+  "oy": 158.6,
+  "url": "jefes/ogro_bicefalo.png",
+  "w": 310
+ },
+ "ojo_fotografo": {
+  "h": 176,
+  "ox": 101.0,
+  "oy": 166.6,
+  "url": "jefes/ojo_fotografo.png",
+  "w": 222
+ },
+ "ojo_insomne": {
+  "h": 174,
+  "ox": 91.0,
+  "oy": 148.6,
+  "url": "jefes/ojo_insomne.png",
+  "w": 235
+ },
+ "orbe_profesor": {
+  "h": 180,
+  "ox": 87.0,
+  "oy": 154.6,
+  "url": "jefes/orbe_profesor.png",
+  "w": 212
+ },
+ "orco_forzudo": {
+  "h": 200,
+  "ox": 95.0,
+  "oy": 172.6,
+  "url": "jefes/orco_forzudo.png",
+  "w": 210
+ },
+ "orquidea_perfumista": {
+  "h": 165,
+  "ox": 67.0,
+  "oy": 130.6,
+  "url": "jefes/orquidea_perfumista.png",
+  "w": 191
+ },
+ "osito_gominola": {
+  "h": 164,
+  "ox": 92.0,
+  "oy": 137.6,
+  "url": "jefes/osito_gominola.png",
+  "w": 231
+ },
+ "oso_ciclista": {
+  "h": 181,
+  "ox": 83.0,
+  "oy": 159.6,
+  "url": "jefes/oso_ciclista.png",
+  "w": 202
+ },
+ "oveja": {
+  "h": 150,
+  "ox": 68.0,
+  "oy": 132.6,
+  "url": "jefes/oveja.png",
+  "w": 197
+ },
+ "ovni_turista": {
+  "h": 169,
+  "ox": 121.0,
+  "oy": 127.6,
+  "url": "jefes/ovni_turista.png",
+  "w": 244
+ },
+ "panda": {
+  "h": 238,
+  "ox": 68.0,
+  "oy": 208.6,
+  "url": "jefes/panda.png",
+  "w": 222
+ },
+ "pastor": {
+  "h": 184,
+  "ox": 59.0,
+  "oy": 158.6,
+  "url": "jefes/pastor.png",
+  "w": 192
+ },
+ "pelota_malabarista": {
+  "h": 142,
+  "ox": 97.0,
+  "oy": 117.6,
+  "url": "jefes/pelota_malabarista.png",
+  "w": 233
+ },
+ "perezoso_trapecista": {
+  "h": 164,
+  "ox": 68.0,
+  "oy": 139.6,
+  "url": "jefes/perezoso_trapecista.png",
+  "w": 195
+ },
+ "pergamino_reglamentario": {
+  "h": 152,
+  "ox": 77.0,
+  "oy": 125.6,
+  "url": "jefes/pergamino_reglamentario.png",
+  "w": 219
+ },
+ "peritio_ninero": {
+  "h": 193,
+  "ox": 68.0,
+  "oy": 178.6,
+  "url": "jefes/peritio_ninero.png",
+  "w": 165
+ },
+ "pez_globo": {
+  "h": 180,
+  "ox": 91.0,
+  "oy": 146.6,
+  "url": "jefes/pez_globo.png",
+  "w": 221
+ },
+ "pez_gota": {
+  "h": 193,
+  "ox": 84.0,
+  "oy": 133.6,
+  "url": "jefes/pez_gota.png",
+  "w": 233
+ },
+ "pez_linterna": {
+  "h": 157,
+  "ox": 71.0,
+  "oy": 119.6,
+  "url": "jefes/pez_linterna.png",
+  "w": 195
+ },
+ "pinguino": {
+  "h": 186,
+  "ox": 67.0,
+  "oy": 148.6,
+  "url": "jefes/pinguino.png",
+  "w": 210
+ },
+ "piruleta_bailarina": {
+  "h": 156,
+  "ox": 101.0,
+  "oy": 134.6,
+  "url": "jefes/piruleta_bailarina.png",
+  "w": 239
+ },
+ "polilla_farolera": {
+  "h": 172,
+  "ox": 106.0,
+  "oy": 149.6,
+  "url": "jefes/polilla_farolera.png",
+  "w": 235
+ },
+ "polilla_lunar": {
+  "h": 168,
+  "ox": 104.0,
+  "oy": 145.6,
+  "url": "jefes/polilla_lunar.png",
+  "w": 230
+ },
+ "pompa_lavandera": {
+  "h": 176,
+  "ox": 97.0,
+  "oy": 115.6,
+  "url": "jefes/pompa_lavandera.png",
+  "w": 231
+ },
+ "profundo": {
+  "h": 204,
+  "ox": 74.0,
+  "oy": 171.6,
+  "url": "jefes/profundo.png",
+  "w": 190
+ },
+ "pterodactilo": {
+  "h": 184,
+  "ox": 137.0,
+  "oy": 168.6,
+  "url": "jefes/pterodactilo.png",
+  "w": 273
+ },
+ "pulpo_cineasta": {
+  "h": 206,
+  "ox": 106.0,
+  "oy": 133.6,
+  "url": "jefes/pulpo_cineasta.png",
+  "w": 239
+ },
+ "querubin": {
+  "h": 187,
+  "ox": 74.0,
+  "oy": 165.6,
+  "url": "jefes/querubin.png",
+  "w": 192
+ },
+ "quimera_ventrilocua": {
+  "h": 180,
+  "ox": 69.0,
+  "oy": 154.6,
+  "url": "jefes/quimera_ventrilocua.png",
+  "w": 189
+ },
+ "rana_dardo": {
+  "h": 187,
+  "ox": 63.0,
+  "oy": 148.6,
+  "url": "jefes/rana_dardo.png",
+  "w": 194
+ },
+ "raptor": {
+  "h": 229,
+  "ox": 68.0,
+  "oy": 210.6,
+  "url": "jefes/raptor.png",
+  "w": 239
+ },
+ "rata_antenista": {
+  "h": 165,
+  "ox": 85.0,
+  "oy": 129.6,
+  "url": "jefes/rata_antenista.png",
+  "w": 221
+ },
+ "rayo_mecanico": {
+  "h": 174,
+  "ox": 85.0,
+  "oy": 161.6,
+  "url": "jefes/rayo_mecanico.png",
+  "w": 245
+ },
+ "reloj_blando": {
+  "h": 169,
+  "ox": 103.0,
+  "oy": 143.6,
+  "url": "jefes/reloj_blando.png",
+  "w": 250
+ },
+ "salamandra_acorazada": {
+  "h": 195,
+  "ox": 85.0,
+  "oy": 125.6,
+  "url": "jefes/salamandra_acorazada.png",
+  "w": 224
+ },
+ "salchicha": {
+  "h": 198,
+  "ox": 72.0,
+  "oy": 151.6,
+  "url": "jefes/salchicha.png",
+  "w": 211
+ },
+ "saltamontes_violinista": {
+  "h": 217,
+  "ox": 134.0,
+  "oy": 194.6,
+  "url": "jefes/saltamontes_violinista.png",
+  "w": 254
+ },
+ "sanguijuela_barquera": {
+  "h": 157,
+  "ox": 53.0,
+  "oy": 140.6,
+  "url": "jefes/sanguijuela_barquera.png",
+  "w": 171
+ },
+ "sapo": {
+  "h": 152,
+  "ox": 76.0,
+  "oy": 103.6,
+  "url": "jefes/sapo.png",
+  "w": 220
+ },
+ "sarten_bateadora": {
+  "h": 161,
+  "ox": 123.0,
+  "oy": 136.6,
+  "url": "jefes/sarten_bateadora.png",
+  "w": 251
+ },
+ "satelite_lechero": {
+  "h": 154,
+  "ox": 130.0,
+  "oy": 130.6,
+  "url": "jefes/satelite_lechero.png",
+  "w": 260
+ },
+ "satiro_discobolo": {
+  "h": 187,
+  "ox": 81.0,
+  "oy": 173.6,
+  "url": "jefes/satiro_discobolo.png",
+  "w": 197
+ },
+ "serpiente_oro": {
+  "h": 169,
+  "ox": 64.0,
+  "oy": 125.6,
+  "url": "jefes/serpiente_oro.png",
+  "w": 207
+ },
+ "seta_heraldo": {
+  "h": 206,
+  "ox": 76.0,
+  "oy": 171.6,
+  "url": "jefes/seta_heraldo.png",
+  "w": 214
+ },
+ "silla_gerente": {
+  "h": 228,
+  "ox": 73.0,
+  "oy": 185.6,
+  "url": "jefes/silla_gerente.png",
+  "w": 207
+ },
+ "soldadito_cuerda": {
+  "h": 218,
+  "ox": 57.0,
+  "oy": 178.6,
+  "url": "jefes/soldadito_cuerda.png",
+  "w": 176
+ },
+ "sombra_chinesca": {
+  "h": 204,
+  "ox": 84.0,
+  "oy": 160.6,
+  "url": "jefes/sombra_chinesca.png",
+  "w": 189
+ },
+ "sonda_muestreadora": {
+  "h": 250,
+  "ox": 81.0,
+  "oy": 184.6,
+  "url": "jefes/sonda_muestreadora.png",
+  "w": 220
+ },
+ "supay_matraquero": {
+  "h": 192,
+  "ox": 69.0,
+  "oy": 165.6,
+  "url": "jefes/supay_matraquero.png",
+  "w": 188
+ },
+ "taza_becaria": {
+  "h": 153,
+  "ox": 95.0,
+  "oy": 129.6,
+  "url": "jefes/taza_becaria.png",
+  "w": 221
+ },
+ "tentaculo_monaguillo": {
+  "h": 151,
+  "ox": 63.0,
+  "oy": 127.6,
+  "url": "jefes/tentaculo_monaguillo.png",
+  "w": 174
+ },
+ "tetera_sargenta": {
+  "h": 160,
+  "ox": 132.0,
+  "oy": 132.6,
+  "url": "jefes/tetera_sargenta.png",
+  "w": 286
+ },
+ "tintero_caligrafo": {
+  "h": 180,
+  "ox": 95.0,
+  "oy": 142.6,
+  "url": "jefes/tintero_caligrafo.png",
+  "w": 252
+ },
+ "titan_bolista": {
+  "h": 179,
+  "ox": 111.0,
+  "oy": 148.6,
+  "url": "jefes/titan_bolista.png",
+  "w": 259
+ },
+ "topo_barrenero": {
+  "h": 205,
+  "ox": 94.0,
+  "oy": 175.6,
+  "url": "jefes/topo_barrenero.png",
+  "w": 222
+ },
+ "tornillo_pendenciero": {
+  "h": 156,
+  "ox": 61.0,
+  "oy": 130.6,
+  "url": "jefes/tornillo_pendenciero.png",
+  "w": 200
+ },
+ "tortuga_cerrojera": {
+  "h": 185,
+  "ox": 72.0,
+  "oy": 157.6,
+  "url": "jefes/tortuga_cerrojera.png",
+  "w": 200
+ },
+ "tostadora_agitadora": {
+  "h": 167,
+  "ox": 86.0,
+  "oy": 140.6,
+  "url": "jefes/tostadora_agitadora.png",
+  "w": 226
+ },
+ "trencito_fogonero": {
+  "h": 203,
+  "ox": 67.0,
+  "oy": 140.6,
+  "url": "jefes/trencito_fogonero.png",
+  "w": 189
+ },
+ "trilobite": {
+  "h": 211,
+  "ox": 90.0,
+  "oy": 212.6,
+  "url": "jefes/trilobite.png",
+  "w": 239
+ },
+ "trol_peajero": {
+  "h": 196,
+  "ox": 114.0,
+  "oy": 158.6,
+  "url": "jefes/trol_peajero.png",
+  "w": 250
+ },
+ "ukuku_hielero": {
+  "h": 186,
+  "ox": 78.0,
+  "oy": 158.6,
+  "url": "jefes/ukuku_hielero.png",
+  "w": 228
+ },
+ "unicornio_justador": {
+  "h": 167,
+  "ox": 64.0,
+  "oy": 124.6,
+  "url": "jefes/unicornio_justador.png",
+  "w": 146
+ },
+ "vaca": {
+  "h": 151,
+  "ox": 68.0,
+  "oy": 134.6,
+  "url": "jefes/vaca.png",
+  "w": 194
+ },
+ "valquiria_portera": {
+  "h": 214,
+  "ox": 81.0,
+  "oy": 181.6,
+  "url": "jefes/valquiria_portera.png",
+  "w": 192
+ },
+ "velon_velador": {
+  "h": 179,
+  "ox": 83.0,
+  "oy": 125.6,
+  "url": "jefes/velon_velador.png",
+  "w": 217
+ },
+ "wyvern_lancero": {
+  "h": 207,
+  "ox": 132.0,
+  "oy": 189.6,
+  "url": "jefes/wyvern_lancero.png",
+  "w": 278
+ },
+ "yegua_pesadilla": {
+  "h": 160,
+  "ox": 58.0,
+  "oy": 141.6,
+  "url": "jefes/yegua_pesadilla.png",
+  "w": 173
+ },
+ "yeti_quitanieves": {
+  "h": 194,
+  "ox": 101.0,
+  "oy": 158.6,
+  "url": "jefes/yeti_quitanieves.png",
+  "w": 275
+ },
+ "yunque_vivo": {
+  "h": 165,
+  "ox": 116.0,
+  "oy": 139.6,
+  "url": "jefes/yunque_vivo.png",
+  "w": 254
+ },
+ "zangano_centinela": {
+  "h": 206,
+  "ox": 72.0,
+  "oy": 182.6,
+  "url": "jefes/zangano_centinela.png",
+  "w": 197
+ },
+ "zarigueya": {
+  "h": 159,
+  "ox": 89.0,
+  "oy": 134.6,
+  "url": "jefes/zarigueya.png",
+  "w": 203
+ },
+ "zombi_cocinero": {
+  "h": 205,
+  "ox": 64.0,
+  "oy": 179.6,
+  "url": "jefes/zombi_cocinero.png",
+  "w": 178
+ },
+ "zorro_escaldo": {
+  "h": 159,
+  "ox": 101.0,
+  "oy": 135.6,
+  "url": "jefes/zorro_escaldo.png",
+  "w": 203
+ }
+}
