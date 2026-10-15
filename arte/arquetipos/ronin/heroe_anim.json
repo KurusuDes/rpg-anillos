@@ -1,0 +1,19 @@
+{
+ "fps": 12,
+ "ancho": 208,
+ "alto": 156,
+ "pies": [
+  104.0,
+  134
+ ],
+ "tiras": {
+  "quieto_s": 18,
+  "quieto_e": 18,
+  "quieto_n": 18,
+  "quieto_w": 18,
+  "caminar_s": 8,
+  "caminar_e": 8,
+  "caminar_n": 8,
+  "caminar_w": 8
+ }
+}
