@@ -6,9 +6,9 @@
     <title>Inflation! Coop Lite-RPG</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Lilita+One&family=Zen+Maru+Gothic:wght@500;700&display=swap" />
-    <script type="module" crossorigin src="/rpg-anillos/assets/main-DQ2E5ZN4.js"></script>
+    <script type="module" crossorigin src="/rpg-anillos/assets/main-tYvqPmCB.js"></script>
     <link rel="modulepreload" crossorigin href="/rpg-anillos/assets/mapConfig-CUyYIU_T.js">
-    <link rel="stylesheet" crossorigin href="/rpg-anillos/assets/main-BwIEF6yA.css">
+    <link rel="stylesheet" crossorigin href="/rpg-anillos/assets/main-DRBsKbX3.css">
   </head>
   <body>
     <canvas id="game" data-ta="aGame" aria-label="Vista de exploración"></canvas>
@@ -16,43 +16,59 @@
     <div class="stage" id="stage">
       <div class="hud" id="hud" hidden>
         <div class="others" id="others"></div>
-        <section class="minimap box" data-ta="aZone" aria-label="Zona actual">
+        <section class="minimap box" id="minibox" data-ta="aZone" aria-label="Zona actual">
           <canvas id="minimap" width="240" height="240"></canvas>
+          <span class="mmkey sh"><i data-t="kMap">Mapa</i> <kbd>M</kbd></span>
           <div class="zname sh" id="zname"></div>
           <div class="zsub" id="zsub"></div>
           <div class="mmrec">
             <div class="row2"><span data-t="hudRec">NIVEL RECOMENDADO</span><b id="zlevel"></b></div>
           </div>
+          <div class="seedtag" id="seedtag"></div>
         </section>
         <div class="topright">
           <div class="stats">
-            <div class="stat time box sh"><b id="htime">10:00</b><span data-t="hudTime">TIEMPO</span></div>
-            <div class="stat box sh"><b id="hlevel">1</b><span data-t="hudLevel">NIVEL</span></div>
-            <div class="stat box sh"><b id="hpb">30</b><span data-t="hudPb">PB</span></div>
-            <div class="stat box sh"><b id="hgold">0</b><span data-t="hudGold">ORO</span></div>
+            <div class="group spend">
+              <div class="stat time box sh"><b id="htime">10:00</b><span data-t="hudTime">TIEMPO</span></div>
+              <div class="stat pb box sh"><b id="hpb">30</b><span data-t="hudPb">PB</span></div>
+            </div>
+            <div class="group grow">
+              <div class="stat lvl box sh"><b id="hlevel">1</b><span data-t="hudLevel">NIVEL</span></div>
+              <div class="stat gold box sh"><b id="hgold">0</b><span data-t="hudGold">ORO</span></div>
+            </div>
           </div>
         </div>
         <div class="gather sh" id="gather" hidden><b></b><span></span></div>
         <div class="gauge-wrap box sh" id="gaugewrap">
-          <div class="lab"><span data-t="hudGauge">ENCUENTRO</span><span id="gaugelab"></span></div>
+          <div class="lab"><span><b id="gaugepct">—</b> <span data-t="hudGauge">ENCUENTRO</span></span><span id="gaugelab"></span></div>
           <div class="gauge"><i id="gauge"></i></div>
         </div>
         <div class="br">
           <button class="act sh" type="button" id="openattr"><svg class="ico" viewBox="0 0 16 16" aria-hidden="true"><rect x="2" y="9" width="3" height="5" fill="#93c27e"/><rect x="6.5" y="5" width="3" height="9" fill="#e4c472"/><rect x="11" y="2" width="3" height="12" fill="#86acd8"/></svg><b data-t="btnAttrs">Atributos</b><kbd>C</kbd><span class="spbadge" id="spbadge" hidden></span></button>
           <button class="act sh" type="button" id="openeq"><svg class="ico" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 13 L11 5 L12 2 L14 4 L11 5" stroke="#c8cee4" stroke-width="1.6" fill="none"/><path d="M2 14 L5 11" stroke="#a87a4a" stroke-width="2"/><circle cx="11.5" cy="11.5" r="2.5" fill="#e9c869" stroke="#1b1208" stroke-width="0.6"/></svg><b data-t="btnGear">Equipo</b><kbd>E</kbd></button>
-          <div class="mini-keys box" id="keys"><span><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> <i data-t="kMove">Moverse</i></span><span><kbd data-t="kShift">Mayús</kbd> <i data-t="kRun">Correr</i></span><span><kbd>M</kbd> <i data-t="kMap">Mapa</i></span><span><kbd>N</kbd> <i data-t="kMusic">Música</i></span><span><kbd>H</kbd> <i data-t="kHelp">Ayuda</i></span><span id="kfight" hidden><kbd>F</kbd> <i data-t="kFight">Combatir</i></span></div>
+          <button class="act sh" type="button" id="openhelp"><svg class="ico" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="#86acd8" stroke="#1b1208" stroke-width="0.8"/><path d="M6 6.2 Q6 4.2 8 4.2 Q10 4.2 10 6 Q10 7.2 8.6 7.8 Q8 8.1 8 9.2" stroke="#1b1208" stroke-width="1.5" fill="none"/><rect x="7.2" y="10.6" width="1.6" height="1.6" fill="#1b1208"/></svg><b data-t="kHelp">Ayuda</b><kbd>H</kbd></button>
+          <button class="act sh fight" type="button" id="openfight" hidden><b data-t="kFight">Combatir</b><kbd>F</kbd></button>
         </div>
-        <div class="seedtag sh" id="seedtag"></div>
       </div>
 
       <div class="screen" id="map" hidden>
         <div class="sheet mapsheet" role="dialog" data-ta="mapTitle" aria-label="Mapa compartido">
           <header class="maphead">
             <h2 data-t="mapTitle">Mapa compartido</h2>
-            <span class="legend"><i class="lv"></i><span data-t="mapVisited">Visitada</span> <i class="ls"></i><span data-t="mapSeen">Vista</span> <i class="lb"></i><span data-t="mapBoss">Jefe</span> <i class="lp"></i><span data-t="mapYou">Usted</span></span>
+            <span class="legend" id="legendbiome"><i class="lv"></i><span data-t="mapVisited">Visitada</span> <i class="ls"></i><span data-t="mapSeen">Vista</span></span>
+            <span class="legend" id="legendrisk" hidden><i class="rk-safe"></i><span data-t="riskSafe">Fácil</span> <i class="rk-even"></i><span data-t="riskEven">Parejo</span> <i class="rk-danger"></i><span data-t="riskDanger">Difícil</span></span>
+            <span class="legend"><i class="lx"></i><span data-t="mapExit">Salida</span> <i class="lb"></i><span data-t="mapBoss">Jefe</span> <i class="lr">1</i><span data-t="mapRoute">Ruta</span> <i class="lp"></i><span data-t="mapYou">Usted</span></span>
             <span class="close"><kbd>M</kbd> <span data-t="close">Cerrar</span></span>
           </header>
-          <canvas id="bigmap" width="900" height="900"></canvas>
+          <div class="mapwrap">
+            <canvas id="bigmap" width="900" height="900"></canvas>
+            <div class="maptip" id="maptip" hidden></div>
+          </div>
+          <footer class="mapfoot">
+            <button class="btn ghost" type="button" id="maprisk"><span data-t="mapColorBiome">Color por bioma</span> <kbd>R</kbd></button>
+            <button class="btn ghost" type="button" id="mapclear" data-t="mapClear">Borrar ruta</button>
+            <span class="maphint" data-t="mapHint">Clic en una zona: marcarla en su ruta · Rueda o + y -: acercar y alejar</span>
+          </footer>
         </div>
       </div>
 
@@ -72,7 +88,10 @@
             <button class="btn ghost" type="button" id="randomseed" data-t="randomSeed">Mapa al azar</button>
             <button class="btn" type="submit" id="start" data-t="solo">Jugar solo</button>
             <button class="btn" type="button" id="host" data-t="host">Crear sala</button>
+            <button class="btn ghost" type="button" id="loadsave" data-t="loadSave">Cargar partida</button>
+            <input id="savefile" type="file" accept=".json,application/json" hidden />
           </div>
+          <div class="saveinfo" id="saveinfo" hidden><span id="savetext"></span> <button class="btn ghost" type="button" id="unloadsave" data-t="unloadSave">Quitar</button></div>
           <dl class="seedinfo" id="seedinfo"></dl>
           <details class="opts" id="opts">
             <summary data-t="optsTitle">Opciones de la partida</summary>
