@@ -1347,7 +1347,95 @@
      }
     }
    }
+  ],
+  "interes": [
+   {
+    "h": 257,
+    "id": "arbol_hueco",
+    "nombre": "Roble anciano",
+    "ox": 107.0,
+    "oy": 198.6,
+    "w": 215
+   },
+   {
+    "h": 164,
+    "id": "pozo",
+    "nombre": "Pozo de los deseos",
+    "ox": 65.0,
+    "oy": 118.6,
+    "w": 130
+   },
+   {
+    "h": 137,
+    "id": "santuario",
+    "nombre": "Santuario de la bellota dorada",
+    "ox": 75.0,
+    "oy": 95.6,
+    "w": 157
+   },
+   {
+    "h": 142,
+    "id": "carreta",
+    "nombre": "Carreta de calabazas",
+    "ox": 85.0,
+    "oy": 73.6,
+    "w": 184
+   }
   ]
+ },
+ "campamento": {
+  "deco": [],
+  "interes": [
+   {
+    "h": 78,
+    "id": "hoguera",
+    "nombre": "Hoguera",
+    "ox": 48.0,
+    "oy": 41.6,
+    "w": 96
+   },
+   {
+    "h": 185,
+    "id": "tienda_roja",
+    "nombre": "Tienda de lona",
+    "ox": 72.0,
+    "oy": 114.6,
+    "w": 144
+   },
+   {
+    "h": 185,
+    "id": "tienda_verde",
+    "nombre": "Tienda verde",
+    "ox": 72.0,
+    "oy": 114.6,
+    "w": 144
+   },
+   {
+    "h": 35,
+    "id": "tronco",
+    "nombre": "Tronco para sentarse",
+    "ox": 42.0,
+    "oy": 25.6,
+    "w": 84
+   },
+   {
+    "h": 92,
+    "id": "poste",
+    "nombre": "Poste con farol",
+    "ox": 22.0,
+    "oy": 83.6,
+    "w": 65
+   },
+   {
+    "h": 79,
+    "id": "provisiones",
+    "nombre": "Provisiones",
+    "ox": 30.0,
+    "oy": 52.6,
+    "w": 65
+   }
+  ],
+  "muro": []
  },
  "cementerio": {
   "deco": [
