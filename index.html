@@ -6,9 +6,9 @@
     <title>Inflation! Coop Lite-RPG</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Lilita+One&family=Zen+Maru+Gothic:wght@500;700&display=swap" />
-    <script type="module" crossorigin src="/rpg-anillos/assets/main-Cl9X0vd7.js"></script>
+    <script type="module" crossorigin src="/rpg-anillos/assets/main-BTypEJKw.js"></script>
     <link rel="modulepreload" crossorigin href="/rpg-anillos/assets/mapConfig-CUyYIU_T.js">
-    <link rel="stylesheet" crossorigin href="/rpg-anillos/assets/main-Dzu9vXns.css">
+    <link rel="stylesheet" crossorigin href="/rpg-anillos/assets/main-DyLZ9wm0.css">
   </head>
   <body>
     <canvas id="game" data-ta="aGame" aria-label="Vista de exploración"></canvas>
@@ -84,54 +84,86 @@
       </div>
 
       <div class="screen lobby" id="lobby">
-        <form class="sheet lobbysheet" id="lobbyform" autocomplete="off" novalidate>
-          <p class="eyebrow" data-t="eyebrow">Para jugar con amigos</p>
-          <h1 class="gamename">Inflation! <span>Coop Lite-RPG</span></h1>
+        <form class="sheet lobbysheet start" id="lobbyform" autocomplete="off" novalidate>
+          <header class="brand">
+            <div>
+              <p class="eyebrow" data-t="eyebrow">Para jugar con amigos</p>
+              <h1 class="gamename">Inflation! <span>Coop Lite-RPG</span></h1>
+            </div>
+            <div class="party" id="party" aria-hidden="true"></div>
+          </header>
           <label class="field">
             <span data-t="name">Su nombre</span>
             <input id="pname" type="text" spellcheck="false" maxlength="16" />
           </label>
-          <label class="field">
-            <span data-t="seed">Semilla del mapa</span>
-            <input id="seed" type="text" spellcheck="false" maxlength="12" aria-describedby="seedinfo" />
-          </label>
-          <div class="row">
-            <button class="btn ghost" type="button" id="randomseed" data-t="randomSeed">Mapa al azar</button>
-            <button class="btn" type="submit" id="start" data-t="solo">Jugar solo</button>
-            <button class="btn" type="button" id="host" data-t="host">Crear sala</button>
-            <button class="btn ghost" type="button" id="loadsave" data-t="loadSave">Cargar partida</button>
-            <input id="savefile" type="file" accept=".json,application/json" hidden />
+          <div class="modes">
+            <section class="mode friends">
+              <h2 data-t="modeFriends">Con amigos</h2>
+              <button class="btn big" type="button" id="host" data-t="host">Crear sala</button>
+              <div class="joinrow">
+                <label class="field">
+                  <span data-t="orJoin">O únase con un código</span>
+                  <input id="code" type="text" spellcheck="false" maxlength="5" placeholder="ABCDE" autocapitalize="characters" />
+                </label>
+                <button class="btn ghost" type="button" id="join" data-t="join">Unirse</button>
+              </div>
+            </section>
+            <section class="mode solo">
+              <h2 data-t="modeSolo">Solo</h2>
+              <p class="hint" data-t="soloHint">El mismo mundo, a su ritmo.</p>
+              <button class="btn big" type="submit" id="start" data-t="solo">Jugar solo</button>
+            </section>
           </div>
+          <p class="netmsg" id="netmsg" role="status"></p>
+          <details class="opts more" id="more">
+            <summary data-t="moreTitle">Mapa y partida guardada</summary>
+            <label class="field">
+              <span data-t="seed">Semilla del mapa</span>
+              <input id="seed" type="text" spellcheck="false" maxlength="12" aria-describedby="seedinfo" />
+            </label>
+            <div class="row">
+              <button class="btn ghost" type="button" id="randomseed" data-t="randomSeed">Mapa al azar</button>
+              <button class="btn ghost" type="button" id="loadsave" data-t="loadSave">Cargar partida</button>
+              <input id="savefile" type="file" accept=".json,application/json" hidden />
+            </div>
+            <dl class="seedinfo" id="seedinfo"></dl>
+          </details>
           <div class="saveinfo" id="saveinfo" hidden><span id="savetext"></span> <button class="btn ghost" type="button" id="unloadsave" data-t="unloadSave">Quitar</button></div>
-          <dl class="seedinfo" id="seedinfo"></dl>
           <details class="opts" id="opts">
             <summary data-t="optsTitle">Opciones de la partida</summary>
             <p class="hint" data-t="optsHint">Solo para pruebas. Las elige quien crea la partida y valen para toda la sala.</p>
             <div class="optgrid" id="optgrid"></div>
             <div class="row"><button class="btn ghost" type="button" id="optreset" data-t="optsReset">Valores por defecto</button></div>
           </details>
-          <div class="joinrow">
-            <label class="field">
-              <span data-t="code">Código de sala</span>
-              <input id="code" type="text" spellcheck="false" maxlength="5" placeholder="ABCDE" />
-            </label>
-            <button class="btn ghost" type="button" id="join" data-t="join">Unirse</button>
-          </div>
-          <p class="netmsg" id="netmsg" role="status"></p>
           <div class="prefs">
             <label class="check"><input id="reducemotion" type="checkbox" /> <span data-t="motion">Reducir movimiento (sacudidas, destellos y partículas)</span></label>
             <label class="langpick"><span data-t="lang">Idioma</span> <select id="lang"></select></label>
           </div>
         </form>
         <div class="sheet lobbysheet room" id="room" hidden>
-          <p class="eyebrow" data-t="room">Sala</p>
-          <h1 class="roomcode" id="roomcode"></h1>
-          <p class="hint" id="roomhint"></p>
+          <header class="roomhead">
+            <div>
+              <p class="eyebrow" data-t="room">Sala</p>
+              <h1 class="roomcode" id="roomcode"></h1>
+            </div>
+            <div class="row share">
+              <button class="btn ghost" type="button" id="copylink" data-t="copyLink">Copiar enlace</button>
+              <button class="btn ghost" type="button" id="sharelink" data-t="share" hidden>Compartir</button>
+            </div>
+          </header>
+          <p class="roomnote" id="roomnote" role="status"></p>
+          <p class="roominfo" id="roominfo"></p>
+          <h2 class="roomcount" id="roomcount"></h2>
           <ul class="roomlist" id="roomlist"></ul>
-          <div class="row"><button class="btn" type="button" id="begin" data-t="begin" hidden>Empezar</button></div>
+          <p class="hint waiting" id="roomhint"></p>
+          <div class="row roomactions">
+            <button class="btn ghost" type="button" id="leaveroom" data-t="leave">Salir</button>
+            <button class="btn big" type="button" id="begin" data-t="begin" hidden>Empezar</button>
+          </div>
         </div>
       </div>
 
+      <div class="rotate" id="rotate" role="alert"><i></i><b data-t="rotateTitle">Gire el teléfono</b><span data-t="rotateBody">El juego se juega en horizontal.</span></div>
       <div class="fade" id="fade"></div>
     </div>
   </body>
